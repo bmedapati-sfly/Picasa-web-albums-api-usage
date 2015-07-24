@@ -1,14 +1,9 @@
 /*Google sign in custom button style start.*/
-    .parent {
-      position: relative;
-    }
-    .child {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
     #customBtn {      
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
       display: inline-block;
       /*background: #4285f4;*/
       color: white;
